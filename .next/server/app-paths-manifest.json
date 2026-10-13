@@ -1,0 +1,10 @@
+{
+  "/login/page": "app/login/page.js",
+  "/guests/page": "app/guests/page.js",
+  "/page": "app/page.js",
+  "/reservations/page": "app/reservations/page.js",
+  "/billing/page": "app/billing/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/rooms/page": "app/rooms/page.js",
+  "/housekeeping/page": "app/housekeeping/page.js"
+}

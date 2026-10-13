@@ -1,0 +1,14 @@
+MAISON HOTEL MANAGEMENT — V2 CHANGES
+
+- New version-specific archive: maison-hotel-browser-only-v2.zip
+- Added reservation edit workflow, booking status changes and cancellation.
+- Booking conflicts are checked when creating and editing reservations.
+- Linked unpaid accommodation invoices follow reservation date/room edits; unpaid invoice is cancelled when the linked booking is cancelled.
+- Added guest edit and guarded delete workflow.
+- Added room edit/status management and guarded delete workflow.
+- Added create-housekeeping-task workflow with room, assignee and priority.
+- Billing accepts partial payments, maintains payment history, calculates balances and updates invoice status to PARTIAL or PAID.
+- Added CSV export for the payment ledger.
+- Added dashboard JSON backup export and backup restore with basic structure validation.
+- Existing local data is migrated in place; local demo seed data is not reset just because the app is updated.
+- Improved launcher to open port 3011 if port 3010 is already in use.

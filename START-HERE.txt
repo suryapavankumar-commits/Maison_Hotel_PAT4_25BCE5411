@@ -1,0 +1,25 @@
+MAISON HOTEL MANAGEMENT — BROWSER EDITION v2
+
+1. Extract this ZIP.
+2. Make sure Node.js LTS is installed: https://nodejs.org/
+3. Double-click start-frontend.bat.
+4. Wait for dependency installation/startup, then open http://localhost:3010/login.
+
+DEMO LOGIN
+Email:    admin@maisonhotel.com
+Password: Admin@123
+
+The login page also has Create account for new local staff accounts.
+
+NEW IN V2
+- Edit/cancel reservations and prevent overlapping bookings.
+- Edit guests and room details/status; safe-delete checks for linked history.
+- Create housekeeping tasks, assign staff and set priority.
+- Record partial payments and payment history; balance/status update automatically.
+- Export the billing ledger as CSV.
+- Export/restore all hotel business records as a JSON backup from the dashboard.
+
+IMPORTANT
+You can enter your own real-world guest/room/booking/invoice details, but records are kept in this browser only. This is not a shared database. Payments are manually recorded only; no money is charged or transferred. Export backups regularly.
+
+No Java, Maven, Oracle, JDBC, ODBC, or backend server is required.
