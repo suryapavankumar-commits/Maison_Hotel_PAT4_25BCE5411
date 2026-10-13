@@ -1,6 +1,6 @@
 # Maison Hotel Management — Browser Edition v2
 
-A polished, frontend-only hotel operations demo. There is no Java server, Oracle configuration, JDBC/ODBC driver, Maven setup, or payment gateway.
+A polished,  hotel operations demo. There is  Java server, Oracle configuration, JDBC/ODBC driver, Maven setup, or payment gateway.
 
 ## Start on Windows
 1. Extract the ZIP to a normal folder (not inside another ZIP preview).
