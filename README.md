@@ -30,4 +30,4 @@ The site accepts your own hotel names, room numbers, guests, dates, invoice amou
 The billing module is a **manual receipt ledger only**. Recording a cash/UPI/card-terminal/bank-transfer payment does not send money or contact a payment provider. To process actual online payments or let several staff members share the same live records, a secure backend, database and payment gateway would need to be integrated separately.
 
 ## Package contents
-`package.json` is at this folder's root. `start-frontend.bat` is the Windows launcher. No Java, Maven, Oracle, JDBC or ODBC installation is required.
+`package.json` is at this folder's root. `start-frontend.bat` is the Windows launcher.  Java, Maven, Oracle, JDBC or ODBC installation is required.
